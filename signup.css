@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../IMAGES/JPG/sign-up-image.jpeg");
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+.sign-up-form {
+	border-radius: 20px;
+	width: 300px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: #fff;
+	padding: 20px;
+	margin: 6% auto 0;
+	text-align: center;
+}
+
+.sign-up-form h1 {
+	color: #0397AB;
+	margin-bottom: 30px;
+}
+
+.input-box {
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px -10px;
+	width: 100%;
+	border: 1px solid #999;
+	outline: none;
+}
+
+form button {
+	color: #fff;
+	width: 100%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	margin: 10px 0;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.sign-btn {
+	background-color: #0397AB;
+}
+
+.sign-btn:hover {
+	background: transparent;
+	outline: 1px solid #0397AB;
+	color: #0397AB;
+	transition: all .50s ease;
+}
+
+.google-btn {
+	background-color: #005A82;
+}
+
+.google-btn:hover {
+	background: transparent;
+	outline: 1px solid #005A82;
+	color: #005A82;
+	transition: all .50s ease;
+}
+
+.return-btn {
+	background-color: #005A82;
+}
+
+.return-btn:hover {
+	background: transparent;
+	outline: 1px solid #005A82;
+	color: #005A82;
+	transition: all .50s ease;
+}
+
+a {
+	text-decoration: none;
+}
+
+hr {
+	margin-top: 20px;
+	width: 80%;
+}
+
+.or {
+	background: #fff;
+	width: 30px;
+	margin: -19px auto 10px;
+}
+
+.checkbox {
+	cursor: pointer;
+}
+
+img {
+	width: 70px;
+	margin-top: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
